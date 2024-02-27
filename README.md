@@ -8,4 +8,4 @@
 
    (Preprocessing a complex dataset before feeding it into a neural network: imbalanced, distribution far from normal)
    
-   [https://colab.research.google.com/drive/1YPtTo1iV-KtFdYLmAQ_KQV5jShqKSEJB#scrollTo=tC5W9tt-gKQa](https://drive.google.com/file/d/1YPtTo1iV-KtFdYLmAQ_KQV5jShqKSEJB/view?usp=sharing)
+   https://drive.google.com/file/d/1YPtTo1iV-KtFdYLmAQ_KQV5jShqKSEJB/view?usp=sharing

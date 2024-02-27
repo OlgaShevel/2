@@ -1,4 +1,4 @@
-Все, что не относится к Computer Vision
+<b>Все, что не относится к Computer Vision</b>
 
 1. (!complex_dataset.ipynb)
 

@@ -1,4 +1,4 @@
-# Non-Computer Vision Project
+# Non-Computer Vision Projects
 
 <b>Все, что не относится к Computer Vision</b>
 

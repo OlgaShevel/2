@@ -19,7 +19,6 @@
 
 3. <i>!ak.TextClassifier (AutoKeras) + Translator (Google)</i>
 
-   ak.TextClassifier: Сравнение точности бинарной классификации датасета на английском языке и того же датасета, переведенного на русский язык при помощи Translator от Google
-   (ak.TextClassifier: Comparison of the accuracy of binary classification of the English dataset and the same dataset translated into Russian using Google Translator)
+   ak.TextClassifier: Сравнение точности бинарной классификации датасета на английском языке и того же датасета, переведенного на русский язык при помощи Translator от Google <br> (ak.TextClassifier: Comparison of the accuracy of binary classification of the English dataset and the same dataset translated into Russian using Google Translator)
       
       
